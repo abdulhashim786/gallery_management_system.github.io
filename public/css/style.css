@@ -1,0 +1,53 @@
+body{
+    background-color: #C8B6E2;
+}
+h1,p{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.insert{
+    margin-top: 9rem;
+    margin-left: 35%;
+}
+#fname{
+    margin-bottom: 20px;
+}
+.search{
+    height: 200px;
+    width: 80vw;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin:100px 60px;
+    
+}
+.search2{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-right: 90px;
+}
+.img1{
+    height: 300px;
+    width: 250px;
+}
+.Profile{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 207px;
+    width: 196px;
+    background-color: lightslategray;
+    border-radius: 5px;
+    margin: 50px 23px;
+    display: inline-block;
+    position: relative;
+}
+img{
+    margin-top: 3px;
+    width: 190px;
+    height: 200px;
+}
